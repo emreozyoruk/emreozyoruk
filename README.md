@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend and Mobile Development<br>🌱 I’m currently learning Javascript framework Nodejs<br>💬 You can ask me whatever you want...<br>
+🔭 I’m currently working on Full Stack and Mobile Development<br>🌱 <br>💬 You can ask me whatever you want...<br>
 
 
 ## 🌐 Socials:
