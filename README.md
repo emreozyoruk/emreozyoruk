@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack and Mobile Development<br>🌱 I'm also learning QA and Devops <br>💬 You can ask me whatever you want...<br>
+🔭 I’m currently working on Full Stack and Mobile Development 💬 You can ask me whatever you want...<br>
 
 
 ## 🌐 Socials:
