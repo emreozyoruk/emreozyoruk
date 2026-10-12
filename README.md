@@ -11,13 +11,11 @@ I take products from zero to live, alone or with a team. I ship on every layer a
 
 ## 🚀 What I build
 
-| | |
-|---|---|
-| **[Lovie](https://lovie.co)** | San Francisco fintech. I ship on every product: banking, company formation, equity, fundraising and AI agents. |
-| **[Crashtest](https://github.com/emreozyoruk/crashtest)** | Mac app whose agent reads a repo, maps every way a user can use the product and runs each scenario in a real browser. On [neatroots](https://github.com/neatlogs/neatroots) it ran 581 scenarios and found 21 verified bugs, and the neatlogs team [fixed all of them](https://github.com/neatlogs/neatroots/pull/40). Built at neatHack 2026. |
-| **[Job Radar](https://jobradar.live)** | Job search engine I built and run alone. Crawls 19 platforms daily into 394K+ live jobs, matched to each user's CV. |
-| **[Qalentis](https://qalentis.com)** | AI hiring platform I built from scratch: CV screening, technical tests and video interviews, then performance reviews. |
-| **[hush](https://github.com/emreozyoruk/hush)** | Open-source GitHub bot that stays quiet when unsure. Matched maintainers' labels on 78% of 800 real issues. |
+- **[Lovie](https://lovie.co)**: San Francisco fintech. I ship on every product: banking, company formation, equity, fundraising and AI agents.
+- **[Crashtest](https://github.com/emreozyoruk/crashtest)**: Mac app whose agent reads a repo, maps every way a user can use the product and runs each scenario in a real browser. On [neatroots](https://github.com/neatlogs/neatroots) it ran 581 scenarios and found 21 verified bugs, and the neatlogs team [fixed all of them](https://github.com/neatlogs/neatroots/pull/40). Built at neatHack 2026.
+- **[Job Radar](https://jobradar.live)**: Job search engine I built and run alone. Crawls 19 platforms daily into 394K+ live jobs, matched to each user's CV.
+- **[Qalentis](https://qalentis.com)**: AI hiring platform I built from scratch: CV screening, technical tests and video interviews, then performance reviews.
+- **[hush](https://github.com/emreozyoruk/hush)**: Open-source GitHub bot that stays quiet when unsure. Matched maintainers' labels on 78% of 800 real issues.
 
 **Shipped to:** App Store · Google Play · macOS · Windows · Web · GitHub Marketplace · npm
 
