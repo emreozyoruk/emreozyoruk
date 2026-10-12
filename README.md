@@ -8,16 +8,19 @@ I take products from zero to live, alone or with a team. I ship on every layer a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-ozyoruk)
 [![X](https://img.shields.io/badge/@kurokotetsuyami-000000?style=flat&logo=x&logoColor=white)](https://x.com/kurokotetsuyami)
 [![Email](https://img.shields.io/badge/emreozyorukdev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emreozyorukdev@gmail.com)
+[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c8d9516b0e7d7061)
 
 ## 🚀 What I build
 
 - **[Lovie](https://lovie.co)**: San Francisco fintech. I ship on every product: banking, company formation, equity, fundraising and AI agents.
 - **[Crashtest](https://github.com/emreozyoruk/crashtest)**: Mac app whose agent reads a repo, maps every way a user can use the product and runs each scenario in a real browser. On [neatroots](https://github.com/neatlogs/neatroots) it ran 581 scenarios and found 21 verified bugs, and the neatlogs team [fixed all of them](https://github.com/neatlogs/neatroots/pull/40). Built at neatHack 2026.
-- **[Job Radar](https://jobradar.live)**: Job search engine I built and run alone. Crawls 19 platforms daily into 394K+ live jobs, matched to each user's CV.
+- **[Job Radar](https://jobradar.live)**: Job search engine I built and run alone. Crawls 21 platforms daily into 2.2M+ open jobs, matched to each user's CV.
 - **[Qalentis](https://qalentis.com)**: AI hiring platform I built from scratch: CV screening, technical tests and video interviews, then performance reviews.
 - **[hush](https://github.com/emreozyoruk/hush)**: Open-source GitHub bot that stays quiet when unsure. Matched maintainers' labels on 78% of 800 real issues.
 
 **Shipped to:** App Store · Google Play · macOS · Windows · Web · GitHub Marketplace · npm
+
+**Freelance:** I build custom MCP servers, RAG chatbots and AI agents for teams. [Hire me on Upwork](https://www.upwork.com/freelancers/~01c8d9516b0e7d7061).
 
 ## 💼 Experience
 
